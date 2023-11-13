@@ -1,0 +1,4 @@
+<!--{{ dd($__data) }}-->
+
+<!--{{Debugbar::warning($categories) }}-->
+    {{dump($categories)}}

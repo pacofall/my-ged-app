@@ -1,0 +1,43 @@
+body {
+  background-color: #f4f4f9;
+  font-family: 'Segoe UI', sans-serif;
+}
+.navbar {
+  background-color: #4B2995;
+  padding: 10px 15px;
+}
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+.login-container {
+  max-width: 400px;
+  margin: 50px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,.05);
+}
+.login-form {
+  margin-top: 20px;
+}
+.login-form button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4B2995;
+  color: white;
+}
+.login-form button:hover {
+  background-color: #37206F;
+}
+.footer {
+  background-color: #4B2995;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
